@@ -32,14 +32,14 @@ const Footer = () => {
               <a href="/" className="block font-body text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-200">
                 Home
               </a>
-              <a href="/company" className="block font-body text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-200">
-                Over Ons
+              <a href="/series" className="block font-body text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-200">
+                Spa's
               </a>
               <a href="/difference" className="block font-body text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-200">
                 Uw Voordeel
               </a>
-              <a href="/products" className="block font-body text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-200">
-                Producten
+              <a href="/company" className="block font-body text-primary-foreground/80 hover:text-primary-foreground transition-colors duration-200">
+                Over Ons
               </a>
             </div>
           </div>
